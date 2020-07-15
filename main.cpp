@@ -224,6 +224,7 @@ void verCompromissos() {
 void editaCompromisso() {
 
 	// Variáveis usadas
+
 	std::string codigo, dia, mes, ano, descricao;
 
 	// pergunta qual data deseja alterar
